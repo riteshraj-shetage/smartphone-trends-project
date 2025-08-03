@@ -24,7 +24,7 @@ This study investigates evolving smartphone usage patterns through direct consum
 
 | Step | Description |
 |------|-------------|
-| **Data Collection** | Primary data gathered via Google Forms survey |
+| **Data Collection** | Primary data gathered via [Google Forms survey](https://forms.gle/82FkHuSPx5FbxMEY9) |
 | **Statistical Analysis** | Hypothesis testing and descriptive statistics performed in RStudio |
 | **Visualization** | Charts and graphs created in Microsoft Excel to highlight trends |
 
