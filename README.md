@@ -35,7 +35,7 @@ This study investigates evolving smartphone usage patterns through direct consum
 <details>
   <summary>📸 Click to expand sample charts</summary>
 
-*Bar chart of feature preferences*  
+*Bar chart of age-wise usage*  
 *Pie chart of brand distribution*  
 *Box plot comparing usage hours across age groups*
 
