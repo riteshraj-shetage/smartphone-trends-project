@@ -35,21 +35,21 @@ This study investigates evolving smartphone usage patterns through direct consum
 <details>
   <summary>📸 Click to expand charts</summary>
   
-*Bar chart of brand distribution* 
-*<p align="center">
-  <img src="../visuals/bar-chart1.png" alt="Survey Chart" width="400"/>
+Bar chart of age-wise usage of smartphone
+<p align="center">
+  <img src="visuals/bar_chart1.png" alt="Survey Chart" width="400"/>
 </p>
-* 
-*Pie chart of brand distribution* 
-*<p align="center">
-  <img src="../visuals/pie-chart.png" alt="pie-chart" width="400"/>
+ 
+Pie chart showing reasons of smartphone adoption
+<p align="center">
+  <img src="visuals/pie_chart.png" alt="pie-chart" width="400"/>
 </p>
-* 
-*Box plot comparing usage hours across age groups*
-*<p align="center">
-  <img src="../visuals/bar-chart2.png" alt="Survey Chart" width="400"/>
+ 
+Bar chart showing impact on well-being
+<p align="center">
+  <img src="visuals/bar_chart2.png" alt="Survey Chart" width="400"/>
 </p>
-* 
+ 
 
 </details>
 
@@ -59,17 +59,10 @@ This study investigates evolving smartphone usage patterns through direct consum
 
 ```bash
 smartphone-trends-project/
-├── data/                
-│   ├── raw/              
-│   └── cleaned/           
-├── analysis/              
-│   └── run_test.R  
+├── data/                        
+├── analysis/                
 ├── visuals/               
-│   └── usage_trends.png   
-├── docs/                 
-│   ├── methodology.md 
-│   └── findings.md      
-├── README.md           
-└── requirements.txt     
+├── docs/                          
+└── README.md      
 
 
