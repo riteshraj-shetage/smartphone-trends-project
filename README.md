@@ -37,17 +37,17 @@ This study investigates evolving smartphone usage patterns through direct consum
   
 *Bar chart of brand distribution* 
 *<p align="center">
-  <img src="visuals/bar-chart1.png" alt="Survey Chart" width="400"/>
+  <img src="../visuals/bar-chart1.png" alt="Survey Chart" width="400"/>
 </p>
 * 
 *Pie chart of brand distribution* 
 *<p align="center">
-  <img src="visuals/pie-chart.png" alt="pie-chart" width="400"/>
+  <img src="../visuals/pie-chart.png" alt="pie-chart" width="400"/>
 </p>
 * 
 *Box plot comparing usage hours across age groups*
 *<p align="center">
-  <img src="visuals/bar-chart2.png" alt="Survey Chart" width="400"/>
+  <img src="../visuals/bar-chart2.png" alt="Survey Chart" width="400"/>
 </p>
 * 
 
