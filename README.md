@@ -55,14 +55,4 @@ Bar chart showing impact on well-being
 
 ---
 
-## 📁 Project Structure
-
-```bash
-smartphone-trends-project/
-├── data/                        
-├── analysis/                
-├── visuals/               
-├── docs/                          
-└── README.md      
-
 
