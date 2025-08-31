@@ -35,19 +35,19 @@ This study investigates evolving smartphone usage patterns through direct consum
 <details>
   <summary>📸 Click to expand charts</summary>
   
-Bar chart of age-wise usage of smartphone
+Distribution of Daily Smartphone Usage
 <p align="center">
-  <img src="visuals/bar_chart1.png" alt="Survey Chart" width="400"/>
+  <img src="visuals/Distribution of Daily Smartphone Usage.png" alt="Survey Chart" width="400"/>
 </p>
  
-Pie chart showing reasons of smartphone adoption
+Distribution of Respondents by Age Group
 <p align="center">
-  <img src="visuals/pie_chart.png" alt="pie-chart" width="400"/>
+  <img src="visuals/Distribution of Respondents by Age Group.png" alt="pie-chart" width="400"/>
 </p>
  
-Bar chart showing impact on well-being
+Distribution of Smartphone Satisfaction
 <p align="center">
-  <img src="visuals/bar_chart2.png" alt="Survey Chart" width="400"/>
+  <img src="visuals/Distribution of Smartphone Satisfaction.png" alt="Survey Chart" width="400"/>
 </p>
  
 
