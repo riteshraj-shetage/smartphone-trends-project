@@ -185,5 +185,5 @@ By combining **descriptive measures** with **inferential tests** like Chi-Square
 - Whether digital adoption varies across rural and urban areas  
 - How satisfaction and health concerns interact with dependency levels  
 
-📌 *This summary is intended to provide a clear, structured understanding of the survey findings along with directions for deeper analysis.*  
+📌 *Thank you for taking the time to explore this project — your interest and feedback are always appreciated.*  
 
